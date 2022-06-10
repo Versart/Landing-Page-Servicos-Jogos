@@ -237,7 +237,6 @@ footer div {
         flex-direction: column;
     }
     .apresentacao {
-        height: 80vh;
         flex-direction: column-reverse;
         justify-content: flex-end;
         margin: 20px 0;
